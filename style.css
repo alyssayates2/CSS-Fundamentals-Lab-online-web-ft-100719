@@ -9,3 +9,7 @@ h1 {
 }
 
 * { text-align: center}
+
+figcaption {
+  size: 10px;
+}
