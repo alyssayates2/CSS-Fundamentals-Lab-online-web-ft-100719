@@ -8,4 +8,4 @@ h1 {
   color: red;
 }
 
-h1, nav { text-align: center}
+* { text-align: center}
